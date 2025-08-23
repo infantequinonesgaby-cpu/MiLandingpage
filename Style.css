@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(#FCEBF3);
+    background-color: #FCEBF3;
     color: var(--text-color);
     scroll-behavior: smooth;
 }
@@ -39,14 +39,14 @@ body {
 }
 
 .nav-link {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 .nav-link:hover {
-    color: var(--primary-color);
+    color: black;
 }
 
 /* Estilos de secciones */
@@ -82,7 +82,7 @@ body {
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid var(#7611D1);
+    border: 5px solid purple;
     margin-bottom: 1rem;
 }
 
@@ -141,7 +141,7 @@ body {
 
 .linktree-link {
     background-color: var(--primary-color);
-    color: white;
+    color: black;
     text-decoration: none;
     padding: 1rem 2rem;
     width: 250px;
@@ -172,7 +172,7 @@ body {
 
 .submit-button {
     background-color: var(--primary-color);
-    color: white;
+    color: black;
     border: none;
     padding: 1rem;
     border-radius: 5px;
@@ -213,4 +213,5 @@ body {
     }
 
 }
+
 

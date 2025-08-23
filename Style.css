@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: var(--background-color);
+    background-color: var(#FCEBF3);
     color: var(--text-color);
     scroll-behavior: smooth;
 }
@@ -211,4 +211,5 @@ body {
     .list li {
         text-align: center;
     }
+
 }
